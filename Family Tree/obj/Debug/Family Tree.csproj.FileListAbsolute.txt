@@ -1,0 +1,49 @@
+D:\vs代码\Family Tree\Family Tree\bin\Debug\Family Tree.exe.config
+D:\vs代码\Family Tree\Family Tree\bin\Debug\Family Tree.exe
+D:\vs代码\Family Tree\Family Tree\bin\Debug\Family Tree.pdb
+D:\vs代码\Family Tree\Family Tree\obj\Debug\Family Tree.csprojResolveAssemblyReference.cache
+D:\vs代码\Family Tree\Family Tree\obj\Debug\Family_Tree.Properties.Resources.resources
+D:\vs代码\Family Tree\Family Tree\obj\Debug\Family Tree.csproj.GenerateResource.Cache
+D:\vs代码\Family Tree\Family Tree\obj\Debug\Family Tree.exe
+D:\vs代码\Family Tree\Family Tree\obj\Debug\Family Tree.pdb
+D:\vs代码\Family Tree\Family Tree\obj\Debug\Family_Tree.Main.resources
+D:\vs代码\Family Tree\Family Tree\obj\Debug\Family_Tree.zhuce.resources
+C:\Users\14933\Desktop\Family Tree\Family Tree\bin\Debug\Family Tree.exe.config
+C:\Users\14933\Desktop\Family Tree\Family Tree\obj\Debug\Family Tree.exe
+C:\Users\14933\Desktop\Family Tree\Family Tree\obj\Debug\Family Tree.pdb
+F:\c#\族谱\Family Tree\bin\Debug\Family Tree.exe.config
+F:\c#\族谱\Family Tree\obj\Debug\Family Tree.exe
+F:\c#\族谱\Family Tree\obj\Debug\Family Tree.pdb
+F:\c#\族谱\Family Tree\bin\Debug\Family Tree.exe
+F:\c#\族谱\Family Tree\bin\Debug\Family Tree.pdb
+F:\c#\族谱\Family Tree\obj\Debug\Family Tree.csprojResolveAssemblyReference.cache
+F:\c#\族谱\Family Tree\obj\Debug\综合查询.cahxun1.resources
+F:\c#\族谱\Family Tree\obj\Debug\综合查询.cahxun2.resources
+F:\c#\族谱\Family Tree\obj\Debug\Family_Tree.Main.resources
+F:\c#\族谱\Family Tree\obj\Debug\Family_Tree.normol.resources
+F:\c#\族谱\Family Tree\obj\Debug\Family_Tree.Properties.Resources.resources
+F:\c#\族谱\Family Tree\obj\Debug\Family_Tree.zhuce.resources
+F:\c#\族谱\Family Tree\obj\Debug\Family_Tree.添加成员.resources
+F:\c#\族谱\Family Tree\obj\Debug\Family_Tree.管理员界面.resources
+F:\c#\族谱\Family Tree\obj\Debug\Family Tree.csproj.GenerateResource.Cache
+F:\c#\族谱\Family Tree\obj\Debug\Family_Tree.修删成员.resources
+F:\c#\族谱\Family Tree\obj\Debug\族谱.族谱信息管理.resources
+F:\c#\族谱\Family Tree\obj\Debug\族谱.查看和删除族谱信息.resources
+F:\c#\族谱\Family Tree\obj\Debug\族谱.添加族谱信息.resources
+C:\Users\ASUS\Desktop\族谱\Family Tree\bin\Debug\Family Tree.exe.config
+C:\Users\ASUS\Desktop\族谱\Family Tree\obj\Debug\Family Tree.exe
+C:\Users\ASUS\Desktop\族谱\Family Tree\obj\Debug\Family Tree.pdb
+C:\Users\ASUS\Desktop\族谱\Family Tree\obj\Debug\Family Tree.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\族谱\Family Tree\obj\Debug\综合查询.cahxun1.resources
+C:\Users\ASUS\Desktop\族谱\Family Tree\obj\Debug\综合查询.cahxun2.resources
+C:\Users\ASUS\Desktop\族谱\Family Tree\obj\Debug\Family_Tree.Main.resources
+C:\Users\ASUS\Desktop\族谱\Family Tree\obj\Debug\Family_Tree.normol.resources
+C:\Users\ASUS\Desktop\族谱\Family Tree\obj\Debug\Family_Tree.Properties.Resources.resources
+C:\Users\ASUS\Desktop\族谱\Family Tree\obj\Debug\Family_Tree.zhuce.resources
+C:\Users\ASUS\Desktop\族谱\Family Tree\obj\Debug\Family_Tree.修删成员.resources
+C:\Users\ASUS\Desktop\族谱\Family Tree\obj\Debug\族谱.族谱信息管理.resources
+C:\Users\ASUS\Desktop\族谱\Family Tree\obj\Debug\族谱.查看和删除族谱信息.resources
+C:\Users\ASUS\Desktop\族谱\Family Tree\obj\Debug\Family_Tree.添加成员.resources
+C:\Users\ASUS\Desktop\族谱\Family Tree\obj\Debug\族谱.添加族谱信息.resources
+C:\Users\ASUS\Desktop\族谱\Family Tree\obj\Debug\Family_Tree.管理员界面.resources
+C:\Users\ASUS\Desktop\族谱\Family Tree\obj\Debug\Family Tree.csproj.GenerateResource.Cache
